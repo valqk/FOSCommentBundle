@@ -1,6 +1,10 @@
 fos_comment_comment_new_headline_first:       Ostavite prvi komentar
 fos_comment_comment_new_headline:             Dodaj novi komentar
 fos_comment_comment_new_submit:               Pošalji
+<<<<<<< HEAD
+=======
+fos_comment_comment_new_cancel:               Otkaži
+>>>>>>> af33ee4dd6c77c941b4c392e1f1f5b924b949e0c
 
 fos_comment_comment_reply_reply_to:           Odgovori %name%
 fos_comment_comment_reply_cancel:             Otkaži
@@ -14,13 +18,21 @@ fos_comment_comment_vote_score:               "Glasova: "
 
 fos_comment_comment_tree_load_more:           Učitaj još odgovora
 
+<<<<<<< HEAD
 Showing %num% comment|Showing %num% comments: Prikazano %num% komentar|Prikazano %num% komentara
+=======
+Showing %num% comment|Showing %num% comments: Prikazano %num% komentar|Prikazano %num% komentara|Prikazano %num% komentara
+>>>>>>> af33ee4dd6c77c941b4c392e1f1f5b924b949e0c
 
 fos_comment_rss_feed:                         RSS kanal
 
 fos_comment_thread_close:                     Zatvori diskusiju
 fos_comment_thread_open:                      Otvori diskusiju
+<<<<<<< HEAD
 fos_comment_thread_comment_count:             %count% komentar|%count% komentara
+=======
+fos_comment_thread_comment_count:             %count% komentar|%count% komentara|%count% komentara
+>>>>>>> af33ee4dd6c77c941b4c392e1f1f5b924b949e0c
 fos_comment_comment_edit:                     Izmeni
 fos_comment_comment_delete:                   Obriši komentar
 fos_comment_comment_undelete:                 Obnovi komentar

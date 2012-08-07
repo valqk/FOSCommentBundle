@@ -314,7 +314,7 @@
 
                 // "reset" the form
                 form = $(form[0]);
-                form.children('textarea')[0].value = '';
+                form.find('textarea').val('');
                 form.children('.fos_comment_form_errors').remove();
             }
         },
@@ -392,7 +392,7 @@
 
         setCommentCount: function(elem, threadObject) {
             if (threadObject == undefined) {
-                elem.innerHTML = '';
+                elem.innerHTML = '0';
 
                 return;
             }
